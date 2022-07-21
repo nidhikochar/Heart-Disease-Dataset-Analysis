@@ -1,6 +1,6 @@
 # Heart-Disease-Dataset-Analysis
 
-Performed EDA ,Regression ,Classification and Clustering on a dataset of Red Wine.
+Performed EDA ,Regression ,Classification and Clustering on a dataset of Heart Disease symptoms with over 920 rows of data  .
 
 
 1] Implemented 6 models for classification namely :
